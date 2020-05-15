@@ -1,0 +1,9 @@
+define = function.Define
+- = function.Sub
++ = function.Summa
+/ = function.Div
+* = function.Mult
+pop = function.Pop
+print = function.Print
+push = function.Push
+sqrt = function.SQRT
